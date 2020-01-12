@@ -1,0 +1,21 @@
+{
+  "name": "website-completa",
+  "version": "1.0.0",
+  "description": "website con blog e ecommerce",
+  "author": "Paulo H",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/bulma": "^1.2.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.1"
+  }
+}
