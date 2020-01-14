@@ -11,8 +11,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/bulma": "^1.2.1",
+    "marked": "^0.8.0",
     "nuxt": "^2.0.0",
-    "@nuxtjs/bulma": "^1.2.1"
+    "storyblok-nuxt": "^1.0.2"
   },
   "devDependencies": {
     "node-sass": "^4.13.0",
